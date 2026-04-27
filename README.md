@@ -16,7 +16,7 @@ A simple Chrome extension to save, manage, and access useful links (leads) direc
 
 ## 🛠 Tech Stack
 
-- JavaScript (Vanilla)
+- JavaScript
 - HTML / CSS
 - Chrome Extension APIs
 - LocalStorage
